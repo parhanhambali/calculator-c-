@@ -1,0 +1,10 @@
+D:\C#\Latihan - Calculator\Latihan - Calculator\bin\Debug\Latihan - Calculator.exe.config
+D:\C#\Latihan - Calculator\Latihan - Calculator\bin\Debug\Latihan - Calculator.exe
+D:\C#\Latihan - Calculator\Latihan - Calculator\bin\Debug\Latihan - Calculator.pdb
+D:\C#\Latihan - Calculator\Latihan - Calculator\obj\Debug\Latihan - Calculator.csprojAssemblyReference.cache
+D:\C#\Latihan - Calculator\Latihan - Calculator\obj\Debug\Latihan___Calculator.Form1.resources
+D:\C#\Latihan - Calculator\Latihan - Calculator\obj\Debug\Latihan___Calculator.Properties.Resources.resources
+D:\C#\Latihan - Calculator\Latihan - Calculator\obj\Debug\Latihan - Calculator.csproj.GenerateResource.cache
+D:\C#\Latihan - Calculator\Latihan - Calculator\obj\Debug\Latihan - Calculator.csproj.CoreCompileInputs.cache
+D:\C#\Latihan - Calculator\Latihan - Calculator\obj\Debug\Latihan - Calculator.exe
+D:\C#\Latihan - Calculator\Latihan - Calculator\obj\Debug\Latihan - Calculator.pdb
